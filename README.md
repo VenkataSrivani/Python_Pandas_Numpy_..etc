@@ -26,7 +26,7 @@ This is a simple and beginner-friendly Python automation script that organizes f
   - `os` - directory and file operations
   - `shutil` - file moving
   - `logging` - activity logging
-  - `datetime` *(optional, currently unused)*
+  - `datetime` 
 
 ---
 
